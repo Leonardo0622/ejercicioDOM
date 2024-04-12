@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container1 {
+    text-align: center;
+    background-color: cadetblue;
+    border: solid 1px rgb(82, 139, 141);
+    padding: 15px;
+}
+.container1 button
+{
+    background-color: rgb(158, 181, 182);
+    border-color: rgb(158, 181, 182);
+}
+.container2{
+    text-align: center;
+    background-color: cadetblue;
+    border: solid 1px rgb(82, 139, 141);
+    padding: 15px;
+}
+.container2 img{
+    width: 80%;
+    height: auto;
+    border-radius: 15px;
+    
+}
+.container3{
+    text-align: center;
+    background-color: cadetblue;
+    border: solid 1px rgb(82, 139, 141);
+    padding: 15px;
+}
+.container3 ul{
+    list-style-type: none;
+}
+.container3 button{
+    background-color: rgb(158, 181, 182);
+    border-color: rgb(158, 181, 182);
+}
