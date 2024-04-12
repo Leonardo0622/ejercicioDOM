@@ -7,7 +7,7 @@ Parrafo.style.color = 'blue'; });
 function agregarImagen(){
 const ContenedorImagen = document.getElementById('ContenedorImagen');
 const imagen = document.createElement('img');
-imagen.src = 'https://i.ibb.co/k3z1Mxm/2024-04-11-23-01-46.png';
+imagen.src = 'https://wallpaperaccess.com/full/5473184.jpg';
 imagen.alt = 'Icono de simbolo';
 ContenedorImagen.appendChild(imagen);
 }
